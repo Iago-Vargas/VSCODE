@@ -1,0 +1,61 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme":"symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize":14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers":[80,120],
+    "workbench.startupEditor":"newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "trafficLightPosition": {
+            "x":11,
+            "y":10
+        },
+        "apc.header":{
+            "height":36
+
+        }
+    },
+    "apc.listRow": {
+        "height": 24,
+    },
+    "apc.font.family": "Inter",
+    "window.commandCenter":false,
+    "apc.stylesheet": {
+        ".title-label > h2":"display: nome",
+        ".editor-actions": "display: nome",
+        ".pane-body":"padding: 8px",
+        ".pane-header": "padding: 0 8px",
+    },
+    "workbench.layoutControl.enabled": false,
+    "explorer.fileNesting.enabled": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 14,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "grunt.autoDetect": "on",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "settingsSync.ignoredSettings": [
+
+    ],
+    
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "search.location": "panel"
+      
+      
+}
+
+Instalar:
+APC CUSTOMIZE
+MIN THEME
+SYMBOLS  
